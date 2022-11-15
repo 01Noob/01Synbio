@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @01Noob
+- 👋 Hi, I’m @01new
 - 👀 I’m interested in coding and history
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on (currently nothing)
