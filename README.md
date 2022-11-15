@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @01new
+- 👋 Hi, I’m @0synbio
 - 👀 I’m interested in coding and history
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on (currently nothing)
